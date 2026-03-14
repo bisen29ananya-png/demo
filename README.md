@@ -1,4 +1,4 @@
-# Demo (project evaluation)
+# Demo
 
 This Flutter project is scaffolded to demonstrate:
 
